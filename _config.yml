@@ -2,6 +2,9 @@
 title: 5p2p 2.0
 timezone: UTC
 collections:
+  drafts:
+    title: Drafts
+    output: true
   posts:
     title: Posts
     output: true
@@ -10,9 +13,6 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true
-  drafts:
-    title: Drafts
     output: true
 defaults:
 - scope:

@@ -13,5 +13,4 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: default
     author: Ruvido

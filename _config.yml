@@ -5,8 +5,8 @@ collections:
   posts:
     title: Posts
     output: true
-  "-":
-    title: Static
+  static_content:
+    title: Static content
     output: true
   uploads:
     title: Uploads

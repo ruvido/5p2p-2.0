@@ -17,7 +17,19 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
   values:
-    layout: test
-    author: Ruvido
+    layout: page
+    summary: 
+- scope:
+    path: post
+  values:
+    layout: post
+    author: 
+    summary: 
+- scope:
+    path: ''
+    type: drafts
+  values:
+    layout: post
+    author: 
+    summary:     

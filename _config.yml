@@ -2,14 +2,11 @@
 title: 5p2p 2.0
 timezone: UTC
 collections:
-  drafts:
-    title: Drafts
-    output: true
   posts:
     title: Posts
     output: true
-  static_content:
-    title: Static content
+  my_pages:
+    title: My pages
     output: true
   uploads:
     title: Uploads
@@ -17,15 +14,8 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: static_content
   values:
     layout: page
-    summary: 
-- scope:
-    path: ''
-    type: drafts
-  values:
-    layout: post
 - scope:
     path: ''
     type: post

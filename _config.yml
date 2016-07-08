@@ -2,11 +2,11 @@
 title: 5p2p 2.0
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
   my_pages:
     title: My pages
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads

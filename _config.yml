@@ -17,6 +17,7 @@ collections:
 defaults:
 - scope:
     path: ''
+    type: static_content
   values:
     layout: page
     summary: 

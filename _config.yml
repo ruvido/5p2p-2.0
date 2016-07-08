@@ -27,11 +27,6 @@ defaults:
     layout: post
     author: ''
     summary: ''
-- scope:
-    path: ''
-    type: drafts
-  values:
-    layout: post
-    author: ''
-    summary: ''
+    image:
+    links: []
 drafts: true

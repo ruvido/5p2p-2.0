@@ -24,12 +24,12 @@ defaults:
     path: post
   values:
     layout: post
-    author: 
-    summary: 
+    author: ''
+    summary: ''
 - scope:
     path: ''
     type: drafts
   values:
     layout: post
-    author: 
-    summary: 
+    author: ''
+    summary: ''

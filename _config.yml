@@ -21,7 +21,8 @@ defaults:
     layout: page
     summary: 
 - scope:
-    path: post
+    path: ''
+    type: post
   values:
     layout: post
     author: ''

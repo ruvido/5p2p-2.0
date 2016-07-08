@@ -5,11 +5,11 @@ collections:
   drafts:
     title: Drafts
     output: true
-  posts:
-    title: Posts
-    output: true
   my_pages:
     title: My Pages
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads

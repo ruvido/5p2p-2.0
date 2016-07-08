@@ -21,6 +21,10 @@ defaults:
     layout: page
     summary: 
 - scope:
+    type: drafts
+  values:
+    layout: 
+- scope:
     path: ''
     type: post
   values:
@@ -29,4 +33,3 @@ defaults:
     summary: ''
     image: 
     links: []
-drafts: true

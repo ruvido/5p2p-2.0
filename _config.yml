@@ -27,6 +27,6 @@ defaults:
     layout: post
     author: ''
     summary: ''
-    image:
+    image: 
     links: []
 drafts: true

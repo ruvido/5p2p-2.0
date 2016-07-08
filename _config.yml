@@ -1,5 +1,4 @@
 ---
-drafts: true
 title: 5p2p 2.0
 timezone: UTC
 collections:
@@ -35,3 +34,4 @@ defaults:
     layout: post
     author: ''
     summary: ''
+drafts: true
